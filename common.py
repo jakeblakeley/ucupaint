@@ -400,6 +400,7 @@ bake_type_items = (
     ('DUST', 'Dust', ''),
     ('PAINT_BASE', 'Paint Base', ''),
     ('THICKNESS', 'Thickness', ''),
+    ('WIREFRAME', 'Wireframe', ''),
 
     ('BEVEL_NORMAL', 'Bevel Normal', ''),
     ('BEVEL_MASK', 'Bevel Grayscale', ''),
@@ -448,6 +449,7 @@ bake_type_labels = {
     'DUST': 'Dust',
     'PAINT_BASE': 'Paint Base',
     'THICKNESS': 'Thickness',
+    'WIREFRAME': 'Wireframe',
 
     'BEVEL_NORMAL': 'Bevel Normal',
     'BEVEL_MASK': 'Bevel Grayscale',
@@ -473,6 +475,7 @@ bake_type_suffixes = {
     'DUST': 'Dust',
     'PAINT_BASE': 'Paint Base',
     'THICKNESS': 'Thickness',
+    'WIREFRAME': 'Wireframe',
 
     'BEVEL_NORMAL': 'Bevel Normal',
     'BEVEL_MASK': 'Bevel Grayscale',
